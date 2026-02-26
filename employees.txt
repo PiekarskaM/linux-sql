@@ -1,0 +1,14 @@
+1;Anna;Nowak;Manager;IT;9000
+2;Jan;Kowalski;Programista;IT;8000
+3;Ola;Wolna;Specjalista HR;HR;6500
+4;Tomasz;Zielony;Analityk;Marketing;7000
+5;Katarzyna;Mazur;Rekruter;HR;6200
+6;Jadwiga;Starsza;Programista;IT;8900
+7;Piotr;Piotrowski;Analityk;Marketing;7300
+8;Adam;Drobny;Programista;IT;9200
+9;Piotr;Wtorek;Programista;IT;9150
+10;Barbara;Ukrop;Programista;IT;4600
+11;Sebastian;Terlecki;Rekruter;HR;6900
+12;Tadeusz;Ratajski;Analityk;Marketing;4100
+13;Laura;Mericka;Manager;HR;7999
+14;Dorota;Chwiejna;Analityk;Marketing;5700
