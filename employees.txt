@@ -1,3 +1,4 @@
+id;first_name;last_name;position;department;salary
 1;Anna;Nowak;Manager;IT;9000
 2;Jan;Kowalski;Programista;IT;8000
 3;Ola;Wolna;Specjalista HR;HR;6500
@@ -12,3 +13,4 @@
 12;Tadeusz;Ratajski;Analityk;Marketing;4100
 13;Laura;Mericka;Manager;HR;7999
 14;Dorota;Chwiejna;Analityk;Marketing;5700
+15;Zbigniew;Sodowy;Manager;IT;9800
