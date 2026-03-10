@@ -1,29 +1,29 @@
 id_aktora;imie;nazwisko;rok_urodzenia;kraj_urodzenia
-1_A;Jeremy;Irons;1948;Wielkia Brytania
-10_A;Peggy;Ashcroft;1907;Wielkia Brytania
+1_A;Jeremy;Irons;1948;Wielka Brytania
+10_A;Peggy;Ashcroft;1907;Wielka Brytania
 100_A;Jamie;Foxx;1967;Stany Zjednoczone
 101_A;Morgan;Freeman;1937;Stany Zjednoczone
 102_A;Brenda;Fricker;1945;Irlandia
 103_A;Clark;Gable;1901;Stany Zjednoczone
-104_A;Greer;Garson;1904;Wielkia Brytania
+104_A;Greer;Garson;1904;Wielka Brytania
 105_A;Marcia;Gay Harden;1959;Stany Zjednoczone
 106_A;Judy;Gholliday;1921;Stany Zjednoczone
-107_A;John;Gielgud;1904;Wielkia Brytania
+107_A;John;Gielgud;1904;Wielka Brytania
 108_A;Whoopi;Goldberg;1955;Stany Zjednoczone
 109_A;Cuba;Gooding Jr.;1968;Stany Zjednoczone
 11_A;Mary;Astor;1906;Stany Zjednoczone
 110_A;Ruth;Gordon;1896;Stany Zjednoczone
 111_A;Louis;Gossett Jr.;1936;Stany Zjednoczone
 112_A;Gloria;Grahame;1923;Stany Zjednoczone
-113_A;Lee;Grant;1927;Wielkia Brytania
+113_A;Lee;Grant;1927;Wielka Brytania
 114_A;Joel;Grey;1932;Stany Zjednoczone
-115_A;Hugh;Griffith;1912;Wielkia Brytania
-116_A;Alec;Guinness;1914;Wielkia Brytania
-117_A;Edmund;Gwenn;1877;Wielkia Brytania
+115_A;Hugh;Griffith;1912;Wielka Brytania
+116_A;Alec;Guinness;1914;Wielka Brytania
+117_A;Edmund;Gwenn;1877;Wielka Brytania
 118_A;Gene;Hackman;1930;Stany Zjednoczone
 119_A;Tom;Hanks;1956;Stany Zjednoczone
 12_A;Fay;Bainter;1893;Stany Zjednoczone
-120_A;Rex;Harrison;1908;Wielkia Brytania
+120_A;Rex;Harrison;1908;Wielka Brytania
 121_A;Anne;Hathaway;1982;Stany Zjednoczone
 122_A;Helen;Hayes;1900;Stany Zjednoczone
 123_A;Susan;Hayward;1917;Stany Zjednoczone
@@ -32,12 +32,12 @@ id_aktora;imie;nazwisko;rok_urodzenia;kraj_urodzenia
 126_A;Audrey;Hepburn;1929;Belgia
 127_A;Katharine;Hepburn;1907;Stany Zjednoczone
 128_A;Charlton;Heston;1923;Stany Zjednoczone
-129_A;Wendy;Hiller;1912;Wielkia Brytania
-13_A;Christian;Bale;1974;Wielkia Brytania
+129_A;Wendy;Hiller;1912;Wielka Brytania
+13_A;Christian;Bale;1974;Wielka Brytania
 130_A;Dustin;Hoffman;1937;Stany Zjednoczone
 131_A;William;Holden;1918;Stany Zjednoczone
 132_A;Celeste;Holm;1917;Stany Zjednoczone
-133_A;Anthony;Hopkins;1937;Wielkia Brytania
+133_A;Anthony;Hopkins;1937;Wielka Brytania
 134_A;John;Houseman;1902;Rumunia
 135_A;Jennifer;Hudson;1981;Stany Zjednoczone
 136_A;Josephine;Hull;1877;Stany Zjednoczone
@@ -71,7 +71,7 @@ id_aktora;imie;nazwisko;rok_urodzenia;kraj_urodzenia
 161_A;Martin;Landau;1928;Stany Zjednoczone
 162_A;Jessica;Lange;1964;Stany Zjednoczone
 163_A;Brie;Larson;1989;Stany Zjednoczone
-164_A;Charles;Laughton;1899;Wielkia Brytania
+164_A;Charles;Laughton;1899;Wielka Brytania
 165_A;Jennifer;Lawrence;1990;Stany Zjednoczone
 166_A;Cloris;Leachman;1926;Stany Zjednoczone
 167_A;Heath;Ledge;1979;Australia
@@ -97,13 +97,13 @@ id_aktora;imie;nazwisko;rok_urodzenia;kraj_urodzenia
 185_A;Matthew;McConaughey;1969;Stany Zjednoczone
 186_A;Hattie;McDaniel;1895;Stany Zjednoczone
 187_A;Frances;McDormand;1957;Stany Zjednoczone
-188_A;Victor;McLaglen;1886;Wielkia Brytania
-189_A;Ray;Milland;1907;Wielkia Brytania
+188_A;Victor;McLaglen;1886;Wielka Brytania
+189_A;Ray;Milland;1907;Wielka Brytania
 19_A;Kim;Basinger;1953;Stany Zjednoczone
-190_A;John;Mills;1908;Wielkia Brytania
+190_A;John;Mills;1908;Wielka Brytania
 191_A;Liza;Minnelli;1946;Stany Zjednoczone
-192_A;Helen;Mirren;1945;Wielkia Brytania
-193_A;Thomas;Mitchell;1892;Wielkia Brytania
+192_A;Helen;Mirren;1945;Wielka Brytania
+193_A;Thomas;Mitchell;1892;Wielka Brytania
 194_A;Julianne;Moore;1960;Stany Zjednoczone
 195_A;Rita;Moreno;1931;Portoryko
 196_A;Paul;Muni;1895;Ukraina
@@ -114,10 +114,10 @@ id_aktora;imie;nazwisko;rok_urodzenia;kraj_urodzenia
 20_A;Kathy;Bates;1948;Stany Zjednoczone
 200_A;Jack;Nicholson;1937;Stany Zjednoczone
 201_A;Mo;Nique;1967;Stany Zjednoczone
-202_A;David;Niven;1910;Wielkia Brytania
+202_A;David;Niven;1910;Wielka Brytania
 203_A;Lupita;Nyongo;1983;Meksyk
 204_A;Edmond;OBrien;1915;Stany Zjednoczone
-205_A;Laurence;Olivier;1907;Wielkia Brytania
+205_A;Laurence;Olivier;1907;Wielka Brytania
 206_A;Tatum;ONeal;1963;Stany Zjednoczone
 207_A;Al;Pacino;1940;Stany Zjednoczone
 208_A;Geraldine;Page;1924;Stany Zjednoczone
@@ -137,8 +137,8 @@ id_aktora;imie;nazwisko;rok_urodzenia;kraj_urodzenia
 220_A;Natalie;Portman;1981;Stany Zjednoczone
 221_A;Anthony;Quinn;1915;Meksyk
 222_A;Luise;Rainer;1910;Niemcy
-223_A;Vanessa;Redgrave;1937;Wielkia Brytania
-224_A;Eddie;Redmayne;1982;Wielkia Brytania
+223_A;Vanessa;Redgrave;1937;Wielka Brytania
+224_A;Eddie;Redmayne;1982;Wielka Brytania
 225_A;Donna;Reed;1921;Stany Zjednoczone
 226_A;Anne;Revere;1903;Stany Zjednoczone
 227_A;Jason;Robards;1922;Stany Zjednoczone
@@ -150,21 +150,21 @@ id_aktora;imie;nazwisko;rok_urodzenia;kraj_urodzenia
 232_A;Mercedes;Ruehl;1948;Stany Zjednoczone
 233_A;Geoffrey;Rush;1951;Australia
 234_A;Harold;Russell;1914;Kanada
-235_A;Margaret;Rutherford;1892;Wielkia Brytania
-236_A;Mark;Rylance;1960;Wielkia Brytania
+235_A;Margaret;Rutherford;1892;Wielka Brytania
+236_A;Mark;Rylance;1960;Wielka Brytania
 237_A;Haing;Ngor;1940;Stany Zjednoczone
 238_A;George;Sanders;1906;Rosja
 239_A;Susan;Sarandon;1946;Stany Zjednoczone
 24_A;Roberto;Benigni;1952;Wlochy
 240_A;Maximilian;Schell;1930;Australia
 241_A;Joseph;Schildkraut;1896;Australia
-242_A;Paul;Scofield;1922;Wielkia Brytania
+242_A;Paul;Scofield;1922;Wielka Brytania
 243_A;Philip;Seymour Hoffman;1967;Stany Zjednoczone
 244_A;Norma;Shearer;1902;Kanada
 245_A;Simone;Signoret;1921;Niemcy
 246_A;J.K.;Simmons;1955;Stany Zjednoczone
 247_A;Frank;Sinatra;1915;Stany Zjednoczone
-248_A;Maggie;Smith;1934;Wielkia Brytania
+248_A;Maggie;Smith;1934;Wielka Brytania
 249_A;Gale;Sondergaard;1899;Stany Zjednoczone
 25_A;Ingrid;Bergman;1915;Szwecja
 250_A;Mira;Sorvino;1967;Stany Zjednoczone
@@ -180,9 +180,9 @@ id_aktora;imie;nazwisko;rok_urodzenia;kraj_urodzenia
 26_A;Halle;Berry;1966;Stany Zjednoczone
 260_A;Meryl;Streep;1949;Stany Zjednoczone
 261_A;Hilary;Swank;1974;Stany Zjednoczone
-262_A;Tilda;Swinton;1960;Wielkia Brytania
+262_A;Tilda;Swinton;1960;Wielka Brytania
 263_A;Jessica;Tandy;1909;Stany Zjednoczone
-264_A;Elizabeth;Taylor;1932;Wielkia Brytania
+264_A;Elizabeth;Taylor;1932;Wielka Brytania
 265_A;Charlize;Theron;1975;RPA
 266_A;Emma;Thompson;1959;Kanada
 267_A;Marisa;Tomei;1964;Stany Zjednoczone
@@ -190,7 +190,7 @@ id_aktora;imie;nazwisko;rok_urodzenia;kraj_urodzenia
 269_A;Claire;Trevor;1910;Stany Zjednoczone
 27_A;Juliette;Binoche;1964;Francja
 270_A;Miyoshi;Umeki;1929;Japonia
-271_A;Peter;Ustinov;1921;Wielkia Brytania
+271_A;Peter;Ustinov;1921;Wielka Brytania
 272_A;Jo;Van Fleet;1915;Stany Zjednoczone
 273_A;Alicia;Vikander;1988;Szwecja
 274_A;Jon;Voight;1938;Stany Zjednoczone
@@ -198,12 +198,12 @@ id_aktora;imie;nazwisko;rok_urodzenia;kraj_urodzenia
 276_A;Christoph;Waltz;1956;Australia
 277_A;Denzel;Washington;1954;Stany Zjednoczone
 278_A;John;Wayne;1907;Stany Zjednoczone
-279_A;Rachel;Weisz;1970;Wielkia Brytania
+279_A;Rachel;Weisz;1970;Wielka Brytania
 28_A;Cate;Blanchett;1969;Australia
 280_A;Forest;Whitaker;1961;Stany Zjednoczone
 281_A;Dianne;Wiest;1948;Stany Zjednoczone
 282_A;Robin;Williams;1951;Stany Zjednoczone
-283_A;Kate;Winslet;1975;Wielkia Brytania
+283_A;Kate;Winslet;1975;Wielka Brytania
 284_A;Shelley;Winters;1920;Stany Zjednoczone
 285_A;Reese;Witherspoon;1976;Stany Zjednoczone
 286_A;Joanne;Woodward;1930;Stany Zjednoczone
@@ -222,7 +222,7 @@ id_aktora;imie;nazwisko;rok_urodzenia;kraj_urodzenia
 33_A;Marlon;Brando;1924;Stany Zjednoczone
 34_A;Walter;Brennan;1894;Stany Zjednoczone
 35_A;Jeff;Bridges;1949;Stany Zjednoczone
-36_A;Jim;Broadbent;1949;Wielkia Brytania
+36_A;Jim;Broadbent;1949;Wielka Brytania
 37_A;Adrien;Brody;1973;Stany Zjednoczone
 38_A;Yul;Brynner;1920;Rosja
 39_A;Sandra;Bullock;1964;Stany Zjednoczone
@@ -233,7 +233,7 @@ id_aktora;imie;nazwisko;rok_urodzenia;kraj_urodzenia
 43_A;George ;Scott;1927;Stany Zjednoczone
 44_A;Nicolas;Cage;1964;Stany Zjednoczone
 45_A;James;Cagney;1899;Stany Zjednoczone
-46_A;Michael;Caine;1933;Wielkia Brytania
+46_A;Michael;Caine;1933;Wielka Brytania
 47_A;Art;Carney;1918;Stany Zjednoczone
 48_A;George;Chakiris;1934;Stany Zjednoczone
 49_A;Cher;Cher;1946;Stany Zjednoczone
@@ -261,15 +261,15 @@ id_aktora;imie;nazwisko;rok_urodzenia;kraj_urodzenia
 69_A;Geena;Davis;1956;Stany Zjednoczone
 7_A;Alan;Arkin;1934;Stany Zjednoczone
 70_A;Viola;Davis;1965;Stany Zjednoczone
-71_A;Daniel;Day-Lewis;1957;Wielkia Brytania
+71_A;Daniel;Day-Lewis;1957;Wielka Brytania
 72_A;Olivia;de Havilland;1916;Japonia
 73_A;Robert;De Niro;1943;Stany Zjednoczone
 75_A;Benicio;Del Toro;1967;Portoryko
-76_A;Judi;Dench;1934;Wielkia Brytania
+76_A;Judi;Dench;1934;Wielka Brytania
 77_A;Sandy;Dennis;1937;Stany Zjednoczone
 78_A;Leonardo;DiCaprio;1974;Stany Zjednoczone
 79_A;Robert;Donat;1905;Stany Zjednoczone
-8_A;George;Arliss;1868;Wielkia Brytania
+8_A;George;Arliss;1868;Wielka Brytania
 80_A;Melvyn;Douglas;1901;Stany Zjednoczone
 81_A;Michael;Douglas;1944;Stany Zjednoczone
 82_A;Marie;Dressler;1868;Kanada
@@ -283,8 +283,8 @@ id_aktora;imie;nazwisko;rok_urodzenia;kraj_urodzenia
 9_A;Patricia;Arquette;1968;Stany Zjednoczone
 90_A;Jose;Ferrer;1912;Portoryko
 91_A;Sally;Field;1946;Stany Zjednoczone
-92_A;Peter;Finch;1916;Wielkia Brytania
-93_A;Colin;Firth;1960;Wielkia Brytania
+92_A;Peter;Finch;1916;Wielka Brytania
+93_A;Colin;Firth;1960;Wielka Brytania
 94_A;Barry;Fitzgerald;1888;Irlandia
 95_A;Louise;Fletcher;1934;Stany Zjednoczone
 96_A;Henry;Fonda;1905;Stany Zjednoczone
