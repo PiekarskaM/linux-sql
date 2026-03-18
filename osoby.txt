@@ -1,0 +1,11 @@
+PESEL;IMIE;NAZWISKO
+46011466970;Bogdan;Badowski
+46020991650;Zbigniew;Miller
+46021119237;Patryk;Magierowicz
+46021336913;Piotr;Jakus
+46022413514;Stefan;Gagatek
+46030620238;Leon;Banach
+46032445608;Alicja;Pisarska
+46040622156;Szymon;Grzeskowiak
+46041442805;Ewelia;Otwocka
+46043062788;Patrycja;Pleszewska
